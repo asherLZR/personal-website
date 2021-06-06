@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Alex Solutions",
+    "location": "Australia",
+    "dates": {
+      "from": "Jan 2020",
+      "to": "present"
+    },
+    "description": "Full-stack development for Alex, a metadata management system which helps our clients visualise and govern the data assets within their IT infrastructure.",
+    "link": "https://alexsolutions.com.au/"
+  },
+  {
+    "title": "Teaching Associate",
+    "company": "Monash University",
+    "location": "Australia",
+    "dates": {
+      "from": "Jul 2019",
+      "to": "Dec 2019"
+    },
+    "description": "Tutor for FIT1045 Introduction to programming fundamentals in Python. The subject introduces basic algorithms, data structures, problem-solving paradigms, and algorithm analysis.",
+    "link": "https://www.monash.edu/it"
+  },
+  {
+    "title": "IT Analyst, Intern",
+    "company": "GIC Pte Ltd",
+    "location": "Singapore",
+    "dates": {
+      "from": "Sep 2014",
+      "to": "Feb 2015"
+    },
+    "description": "Designed and developed a version control program and process in shell for source code deployment and code version integrity of clients and servers of the investment management system deployed worldwide.",
+    "link": "https://www.gic.com.sg/"
+  }
+]

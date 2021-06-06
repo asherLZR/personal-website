@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Bachelor of Computer Science",
+    "school": "Monash University",
+    "location": "Australia",
+    "dates": {
+      "from": "2017",
+      "to": "2020"
+    },
+    "description": "Dean’s Achievement Award Undergraduate\nIT Industry Based Learning Placement Scholarship\nIT International Merit Scholarship",
+    "link": "https://www.monash.edu/it"
+  },
+  {
+    "title": "Diploma in Financial Business Informatics",
+    "school": "Temasek Polytechnic",
+    "location": "Singapore",
+    "dates": {
+      "from": "2012",
+      "to": "2015"
+    },
+    "description": "Thompson Reuters Asia Course Silver Medal\nTemasek Polytechnic Scholarship\nDirector’s List, School of Informatics and IT",
+    "link": "https://www.tp.edu.sg/informaticsandit"
+  }
+]

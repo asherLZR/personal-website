@@ -1,0 +1,37 @@
+[
+	{
+		"imgSrc": "../images/projects/ashers-website.png",
+		"title": "Personal Site",
+		"link": "https://github.com/asherLZR/personal-website",
+		"subtitle": "Very Meta!",
+		"description": "I built this site with amazing tools like Gatsby, Emotion, and React Spring. Through this project, I learnt more about the gotchas with static sites, basic GraphQL, styled components, the current state of animation, and basic SVG manipulation. It was a lot of fun 😃"
+	},
+	{
+		"imgSrc": "../images/projects/parole-con-amici.png",
+		"title": "Parole Con Amici",
+		"link": "https://github.com/asherLZR/parole-con-amici",
+		"subtitle": "Multiplayer Online Board Game",
+		"description": "Owing to the events of the year 2020, this is a hacked together Scrabble-like game to pass the time with friends and family. It includes simple, back-to-basic rules which emulate over-the-board play, and is of course, sans ads! It was implemented with Typescript React and Node.js with Socket.IO."
+	},
+	{
+		"imgSrc": "../images/projects/perspective.png",
+		"title": "Perspective",
+		"link": "https://github.com/asherLZR/perspective",
+		"subtitle": "Hackathon Project - 2nd Place Winners, Hackamon 2019",
+		"description": "While it is agreed that one of the best modes of learning is through teaching, this is rarely tapped upon. The proposal was to build a video learning website where the content creators are students. Students upload videos of themselves teaching different topics within a unit, soliciting feedback from their peers. The code written here was written under time pressure for presentation purposes only."
+	},
+	{
+		"imgSrc": "../images/projects/zalg.png",
+		"title": "Z-Algorithm Visualised",
+		"link": "https://github.com/asherLZR/z-algorithm-visualised",
+		"subtitle": "Algorithm Visualisation",
+		"description": "Gusfield's Z-algorithm is used as a pre-processing step on the pattern as input to string pattern-matching algorithms like KMP and Boyer-Moore. I built this application with Vue.js as a first step towards understanding web technologies and the process from design to production."
+	},
+	{
+		"imgSrc": "../images/projects/safehearts.png",
+		"title": "Safehearts",
+		"link": "https://github.com/asherLZR/safehearts",
+		"subtitle": "Uni Assignment, Software Architecture & Design",
+		"description": "Safehearts is an Android-FHIR app for medical practitioners to monitor patients' key health stats. It was my first foray into Android programming and was instructive in design thinking within the Object-Oriented paradigm. Functional and reactive programming were disallowed. The app uses Strategy & Adapter patterns and demonstrates SOLID principles."
+	}
+]
