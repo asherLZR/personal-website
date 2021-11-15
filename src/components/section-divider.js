@@ -1,15 +1,17 @@
 import React from 'react';
 import styled from '@emotion/styled';
 
-export const SectionWithDivider = ({ children, title, ...rest }) => {
-  return (
-    // eslint-disable-next-line react/jsx-props-no-spreading
-    <Section {...rest}>
-      <SectionDivider title={title} />
-      {children}
-    </Section>
-  );
-};
+export const SectionWithDivider = React.forwardRef(
+  ({ children, title, ...rest }, ref) => {
+    return (
+      // eslint-disable-next-line react/jsx-props-no-spreading
+      <Section ref={ref} {...rest}>
+        <SectionDivider title={title} />
+        {children}
+      </Section>
+    );
+  }
+);
 
 const SectionDivider = ({ title }) => (
   <Divider>
