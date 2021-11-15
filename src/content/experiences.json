@@ -1,11 +1,22 @@
 [
   {
     "title": "Software Developer",
+    "company": "Klarna",
+    "location": "Sweden",
+    "dates": {
+      "from": "Nov 2021",
+      "to": "present"
+    },
+    "description": "Front-end development for core design system.",
+    "link": "https://www.klarna.com/"
+  },
+  {
+    "title": "Software Developer",
     "company": "Alex Solutions",
     "location": "Australia",
     "dates": {
       "from": "Jan 2020",
-      "to": "present"
+      "to": "Oct 2021"
     },
     "description": "Full-stack development for Alex, a metadata management system which helps our clients visualise and govern the data assets within their IT infrastructure.",
     "link": "https://alexsolutions.com.au/"
