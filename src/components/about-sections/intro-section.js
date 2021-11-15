@@ -5,7 +5,7 @@ export const IntroSection = () => (
   <>
     <p>
       I’m Asher Lim. A passionate Software Developer and Computer Science
-      graduate from Singapore, currently based in Melbourne, Australia.
+      graduate from Singapore, currently based in Stockholm, Sweden.
     </p>
     <p>
       I build web and server-side applications with JavaScript, React, Java and
